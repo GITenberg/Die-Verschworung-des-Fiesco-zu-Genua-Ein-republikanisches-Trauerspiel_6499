@@ -1,0 +1,28 @@
+_repo: Die-Verschworung-des-Fiesco-zu-Genua-Ein-republikanisches-Trauerspiel_6499
+creator:
+  author:
+    agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Johann Christoph Friedrich von
+    - Schiller, Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6499'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Genoa (Italy) -- History -- Drama'
+- !lcsh 'Fiéschi, Gian Luigi, conte di Lavagna, 1522-1547 -- Drama'
+- !lcc 'PT'
+title: 'Die Verschwörung des Fiesco zu Genua: Ein republikanisches Trauerspiel'
+url: http://www.gutenberg.org/ebooks/6499
